@@ -1,0 +1,45 @@
+plugins {
+    id 'com.android.application'       // AGP 8.x picked from the toolchain
+   // id 'org.jetbrains.kotlin.android'  // Kotlin Android plugin
+}
+
+android {
+    namespace 'imgui.example.android'  // required on AGP 8+
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "imgui.example.android"
+        minSdk 23
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+        ndkVersion "26.1.10909125"     // or remove to use Android Studio’s NDK
+
+        ndk {
+            abiFilters 'arm64-v8a'
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles(
+                getDefaultProguardFile('proguard-android-optimize.txt'),
+                'proguard-rules.pro'
+            )
+        }
+
+    }
+
+    externalNativeBuild {
+        cmake {
+            path file("../../CMakeLists.txt")
+        }
+    }
+}
+
+dependencies {
+    // With modern Kotlin plugin you usually don't need stdlib explicitly,
+    // but if you want it pinned:
+  //  implementation "org.jetbrains.kotlin:kotlin-stdlib:1.9.24"
+}
