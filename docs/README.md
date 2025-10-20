@@ -20,6 +20,14 @@ This project is a native C++ overlay framework for Android that lets you draw **
 
 ---
 
+## ✨ Preview
+
+https://github.com/your-username/ImLottie-Android/assets/00000000/your-video-id
+
+> 🎥 **Video Preview:** Watch how the Lottie overlay looks in a real Android app — live, smooth, and GPU-accelerated!
+
+---
+
 ## ✨ Usage Example
 ```
  // ImLottie Sync
