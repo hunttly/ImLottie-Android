@@ -122,5 +122,11 @@ Contributions are welcome! If you have bug fixes, performance optimizations, or 
 
 If this project helped you build your overlay or game UI, please give it a ⭐ on GitHub — it helps others discover it!
 
+---
+
+# Buy me a coffe !
+
+> Binance ID : 500231999
+> USDT (TRC20) : TLY94XXD5CamCLP2qbFWvRhYbXZUfKCjzH
 ## Made by Hunter
 
