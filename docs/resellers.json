@@ -9,5 +9,104 @@
         "discord": "",
         "website": "https://htjmod.shop/?v=algo-nuevo",
         "logo": "https://keypanel.tech/samurai/htj.png"
+    },
+    {
+        "name": "NeoTopup Hub",
+        "description": "Fast game currency delivery service",
+        "country": "US",
+        "payments": "USDT, PayPal, Visa, Crypto",
+        "telegram": "https://t.me/neotopup",
+        "whatsapp": "",
+        "discord": "https://discord.gg/neotopup",
+        "website": "https://neotopup.store",
+        "logo": "https://examplecdn.com/logos/neotopup.png"
+    },
+    {
+        "name": "SkyResellers",
+        "description": "Premium digital goods reseller",
+        "country": "FR",
+        "payments": "PayPal, Binance Pay, USDT",
+        "telegram": "https://t.me/skyresellers",
+        "whatsapp": "",
+        "discord": "",
+        "website": "https://skyresellers.shop",
+        "logo": "https://examplecdn.com/logos/skyresellers.png"
+    },
+    {
+        "name": "CryptoTop Store",
+        "description": "Crypto-friendly gaming top-ups",
+        "country": "RU",
+        "payments": "Bitcoin, Ethereum, USDT",
+        "telegram": "https://t.me/cryptotopstore",
+        "whatsapp": "",
+        "discord": "",
+        "website": "https://cryptotop.store",
+        "logo": "https://examplecdn.com/logos/cryptotop.png"
+    },
+    {
+        "name": "Elite Voucher Shop",
+        "description": "Instant voucher and gift card delivery",
+        "country": "CA",
+        "payments": "PayPal, Cards, USDT",
+        "telegram": "",
+        "whatsapp": "https://wa.me/0000000000",
+        "discord": "",
+        "website": "https://elitevoucher.shop",
+        "logo": "https://examplecdn.com/logos/elitevoucher.png"
+    },
+    {
+        "name": "Nova TopUp Center",
+        "description": "Cheap and fast game top-ups",
+        "country": "BR",
+        "payments": "USDT, Bank Transfer, PayPal",
+        "telegram": "https://t.me/novatopup",
+        "whatsapp": "",
+        "discord": "",
+        "website": "https://novatopup.center",
+        "logo": "https://examplecdn.com/logos/novatopup.png"
+    },
+    {
+        "name": "UltraResell",
+        "description": "Digital goods and subscriptions reseller",
+        "country": "IT",
+        "payments": "Crypto, PayPal, Cards",
+        "telegram": "https://t.me/ultraresell",
+        "whatsapp": "",
+        "discord": "https://discord.gg/ultraresell",
+        "website": "https://ultraresell.com",
+        "logo": "https://examplecdn.com/logos/ultraresell.png"
+    },
+    {
+        "name": "PrimeCoins Market",
+        "description": "Game coins and skins provider",
+        "country": "EG",
+        "payments": "USDT, Bitcoin, Credit Card",
+        "telegram": "https://t.me/primecoins",
+        "whatsapp": "",
+        "discord": "",
+        "website": "https://primecoins.market",
+        "logo": "https://examplecdn.com/logos/primecoins.png"
+    },
+    {
+        "name": "ZeroLag Topups",
+        "description": "Instant delivery top-up service",
+        "country": "US",
+        "payments": "PayPal, USDT, Cards",
+        "telegram": "https://t.me/zerolagtopups",
+        "whatsapp": "",
+        "discord": "",
+        "website": "https://zerolagtopups.com",
+        "logo": "https://examplecdn.com/logos/zerolag.png"
+    },
+    {
+        "name": "Fusion Resellers",
+        "description": "Gaming accounts and top-ups marketplace",
+        "country": "FR",
+        "payments": "Crypto, PayPal, Bank Transfer",
+        "telegram": "https://t.me/fusionresellers",
+        "whatsapp": "",
+        "discord": "https://discord.gg/fusionresellers",
+        "website": "https://fusionresellers.shop",
+        "logo": "https://examplecdn.com/logos/fusion.png"
     }
 ]
