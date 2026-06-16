@@ -8,7 +8,7 @@
         "whatsapp": "",
         "discord": "",
         "website": "https://htjmod.shop/?v=algo-nuevo",
-        "logo": "https://github.com/hunttly/ImLottie-Android/blob/master/docs/global.png"
+        "logo": "https://raw.githubusercontent.com/hunttly/ImLottie-Android/refs/heads/master/docs/global.png"
     },
     {
         "name": "NeoTopup Hub",
@@ -19,7 +19,7 @@
         "whatsapp": "",
         "discord": "https://discord.gg/neotopup",
         "website": "https://neotopup.store",
-        "logo": "https://github.com/hunttly/ImLottie-Android/blob/master/docs/us.png"
+        "logo": "https://raw.githubusercontent.com/hunttly/ImLottie-Android/refs/heads/master/docs/us.png"
     },
     {
         "name": "SkyResellers",
@@ -30,7 +30,7 @@
         "whatsapp": "",
         "discord": "",
         "website": "https://skyresellers.shop",
-        "logo": "https://github.com/hunttly/ImLottie-Android/blob/master/docs/fr.png"
+        "logo": "https://raw.githubusercontent.com/hunttly/ImLottie-Android/refs/heads/master/docs/fr.png"
     },
     {
         "name": "CryptoTop Store",
@@ -41,7 +41,7 @@
         "whatsapp": "",
         "discord": "",
         "website": "https://cryptotop.store",
-        "logo": "https://github.com/hunttly/ImLottie-Android/blob/master/docs/ru.png"
+        "logo": "https://raw.githubusercontent.com/hunttly/ImLottie-Android/refs/heads/master/docs/ru.png"
     },
     {
         "name": "Elite Voucher Shop",
@@ -52,7 +52,7 @@
         "whatsapp": "https://wa.me/0000000000",
         "discord": "",
         "website": "https://elitevoucher.shop",
-        "logo": "https://github.com/hunttly/ImLottie-Android/blob/master/docs/ca.png"
+        "logo": "https://raw.githubusercontent.com/hunttly/ImLottie-Android/refs/heads/master/docs/ca.png"
     },
     {
         "name": "Nova TopUp Center",
@@ -63,7 +63,7 @@
         "whatsapp": "",
         "discord": "",
         "website": "https://novatopup.center",
-        "logo": "https://github.com/hunttly/ImLottie-Android/blob/master/docs/br.png"
+        "logo": "https://raw.githubusercontent.com/hunttly/ImLottie-Android/refs/heads/master/docs/br.png"
     },
     {
         "name": "UltraResell",
@@ -74,7 +74,7 @@
         "whatsapp": "",
         "discord": "https://discord.gg/ultraresell",
         "website": "https://ultraresell.com",
-        "logo": "https://github.com/hunttly/ImLottie-Android/blob/master/docs/it.png"
+        "logo": "https://raw.githubusercontent.com/hunttly/ImLottie-Android/refs/heads/master/docs/it.png"
     },
     {
         "name": "PrimeCoins Market",
@@ -85,7 +85,7 @@
         "whatsapp": "",
         "discord": "",
         "website": "https://primecoins.market",
-        "logo": "https://github.com/hunttly/ImLottie-Android/blob/master/docs/eg.png"
+        "logo": "https://raw.githubusercontent.com/hunttly/ImLottie-Android/refs/heads/master/docs/eg.png"
     },
     {
         "name": "ZeroLag Topups",
@@ -96,7 +96,7 @@
         "whatsapp": "",
         "discord": "",
         "website": "https://zerolagtopups.com",
-        "logo": "https://github.com/hunttly/ImLottie-Android/blob/master/docs/us.png"
+        "logo": "https://raw.githubusercontent.com/hunttly/ImLottie-Android/refs/heads/master/docs/us.png"
     },
     {
         "name": "Fusion Resellers",
@@ -107,6 +107,7 @@
         "whatsapp": "",
         "discord": "https://discord.gg/fusionresellers",
         "website": "https://fusionresellers.shop",
-        "logo": "https://github.com/hunttly/ImLottie-Android/blob/master/docs/fr.png"
+        "logo": "https://raw.githubusercontent.com/hunttly/ImLottie-Android/refs/heads/master/docs/fr.png"
     }
 ]
+```0
